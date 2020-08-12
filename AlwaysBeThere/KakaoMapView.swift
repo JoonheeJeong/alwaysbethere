@@ -9,22 +9,33 @@
 import SwiftUI
 
 struct KakaoMapView: UIViewRepresentable {
+    @EnvironmentObject var userData: UserData
+    
+    let defaultMapPoint = MTMapPoint(geoCoord: MTMapPointGeo(latitude: 36.366862, longitude: 127.344279)) // 충남대학교 공대 5호관 좌표
+    let defaultZoomLevel:Int32 = 3
+    
     func makeUIView(context: Context) -> MTMapView {
-        MTMapView(frame: .zero)
+        let view = MTMapView(frame: .zero)
+        view.baseMapType = MTMapType.standard
+        view.setMapCenter(defaultMapPoint, zoomLevel: defaultZoomLevel, animated: true)
+        return view
     }
     
-    func updateUIView(_ uiView: MTMapView, context: Context) {
-        uiView.baseMapType = MTMapType.standard
-        uiView.showCurrentLocationMarker = true
-        uiView.currentLocationTrackingMode = .onWithoutHeading
-        let currentMapPoint = MTMapPoint.init(geoCoord: MTMapPointGeo(latitude: 36.366862, longitude: 127.344279))
-        uiView.setMapCenter(currentMapPoint!, zoomLevel: MTMapZoomLevel(4.0), animated: true)
-        
+    func updateUIView(_ view: MTMapView, context: Context) {
+//        uiView.showCurrentLocationMarker = true
+        if self.userData.moveToCurrentLocation {
+            view.currentLocationTrackingMode = .onWithoutHeading
+            view.setMapCenter(defaultMapPoint, zoomLevel: defaultZoomLevel, animated: true)
+        } else {
+            view.currentLocationTrackingMode = .off
+            view.setZoomLevel(1, animated: true)
+        }
     }
 }
 
 struct KakaoMapView_Previews: PreviewProvider {
     static var previews: some View {
         KakaoMapView()
+        .environmentObject(UserData())
     }
 }
