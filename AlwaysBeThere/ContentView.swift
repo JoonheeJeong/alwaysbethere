@@ -12,11 +12,21 @@ struct ContentView: View {
     @State var showingAdditionalActions = false
     @State var showingBookmark = false
     @State var showingSearchBar = false
-    @State var refresh = false
     @EnvironmentObject private var userData: UserData // user 이벤트 변수
     
     let buttonSize: CGFloat = 30.0
     let offset: CGFloat = 10.0
+    
+    var kakaoMapView: some View {
+        KakaoMapView()
+        .environmentObject(self.userData)
+        .edgesIgnoringSafeArea(.top)
+        .frame(minWidth: 0,
+               maxWidth: .infinity,
+               minHeight: 0,
+               maxHeight: .infinity,
+               alignment: .topLeading)
+    }
     
     var buttonBackground: some View {
         Image(systemName: "circle.fill").resizable()
@@ -89,7 +99,7 @@ struct ContentView: View {
     var refreshButton: some View {
         ZStack {
             buttonBackground
-            Button(action: { self.refresh.toggle() }) {
+            Button(action: { self.userData.refresh = true }) {
                 Image(systemName: "arrow.clockwise")
                     .imageScale(.large)
                     .frame(width: self.buttonSize, height: self.buttonSize, alignment: .center)
@@ -103,15 +113,11 @@ struct ContentView: View {
     var body: some View {
         NavigationView {
             VStack(alignment: .leading) {
-                KakaoMapView()
-                    .environmentObject(self.userData)
-                    .edgesIgnoringSafeArea(.top)
-                    .frame(minWidth: 0,
-                           maxWidth: .infinity,
-                           minHeight: 0,
-                           maxHeight: .infinity,
-                           alignment: .topLeading)
-//                Text(self.userData.moveToCurrentLocation ? "On" : "Off") // for debug
+                kakaoMapView
+//                HStack { // for debug
+//                    Text("move: ".appending(self.userData.moveToCurrentLocation ? "On" : "Off"))
+//                    Text("refresh: ".appending(self.userData.refresh ? "On" : "Off"))
+//                }
             }
             .navigationBarItems(
                 leading: HStack {

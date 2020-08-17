@@ -26,9 +26,10 @@ struct KakaoMapView: UIViewRepresentable {
         if self.userData.moveToCurrentLocation {
             view.currentLocationTrackingMode = .onWithoutHeading
             view.setMapCenter(defaultMapPoint, zoomLevel: defaultZoomLevel, animated: true)
-        } else {
-            view.currentLocationTrackingMode = .off
-            view.setZoomLevel(1, animated: true)
+            self.userData.moveToCurrentLocation.toggle()
+        } else if self.userData.refresh {
+            MTMapView.clearMapTilePersistentCache()
+            self.userData.refresh.toggle()
         }
     }
 }

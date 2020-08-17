@@ -11,4 +11,5 @@ import SwiftUI
 
 final class UserData: ObservableObject {
     @Published var moveToCurrentLocation = false
+    @Published var refresh = false
 }
