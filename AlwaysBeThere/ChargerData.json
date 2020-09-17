@@ -1,0 +1,4374 @@
+[
+    {
+        "statNm":
+        sse"종묘 공영주차장"
+        },
+        "statId": {
+            "_text": "ME000001"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "서울특별시 종로구 종로 157, 지하주차장 4층 하층 T구역"
+        },
+        "lat": {
+            "_text": "37.571076"
+        },
+        "lng": {
+            "_text": "126.995880"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907055138"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "세종로 공영주차장"
+        },
+        "statId": {
+            "_text": "ME000002"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "서울특별시 종로구 세종대로 189, 지하주차장 4층 D구역 계단실 앞"
+        },
+        "lat": {
+            "_text": "37.573611"
+        },
+        "lng": {
+            "_text": "126.976011"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907184909"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "그랜드앰배서더 서울"
+        },
+        "statId": {
+            "_text": "ME000003"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "서울특별시 중구 동호로 287, 대형버스주차장"
+        },
+        "lat": {
+            "_text": "37.559352"
+        },
+        "lng": {
+            "_text": "127.002350"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907155845"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "한강진역 공영주차장"
+        },
+        "statId": {
+            "_text": "ME000004"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "서울특별시 용산구 한남동 산10-84, 지상실외주차장"
+        },
+        "lat": {
+            "_text": "37.540085"
+        },
+        "lng": {
+            "_text": "127.002804"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907170816"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "마장동사무소 앞(공중전화부스)"
+        },
+        "statId": {
+            "_text": "ME000006"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "서울특별시 성동구 마장동 808"
+        },
+        "lat": {
+            "_text": "37.5660935"
+        },
+        "lng": {
+            "_text": "127.0455256"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907183617"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "청량리롯데백화점"
+        },
+        "statId": {
+            "_text": "ME000007"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "서울특별시 동대문구 왕산로 214, 주차장 옥상"
+        },
+        "lat": {
+            "_text": "37.580650"
+        },
+        "lng": {
+            "_text": "127.047938"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907163826"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "이마트 이문점"
+        },
+        "statId": {
+            "_text": "ME000008"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "서울특별시 동대문구 이문로 136, 지하주차장 1층 D-04"
+        },
+        "lat": {
+            "_text": "37.598454"
+        },
+        "lng": {
+            "_text": "127.061848"
+        },
+        "useTime": {
+            "_text": "10:00~24:00"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200905194253"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "홈플러스 면목점"
+        },
+        "statId": {
+            "_text": "ME000010"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "서울특별시 중랑구 사가정로 332, 지상주차장 4층 406구역"
+        },
+        "lat": {
+            "_text": "37.580612"
+        },
+        "lng": {
+            "_text": "127.08154"
+        },
+        "useTime": {
+            "_text": "10:00~24:00"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "5"
+        },
+        "statUpdDt": {
+            "_text": "20190826130747"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "홈플러스 월곡점"
+        },
+        "statId": {
+            "_text": "ME000011"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "서울특별시 성북구 화랑로 76, 지하주차장 3층 98구역"
+        },
+        "lat": {
+            "_text": "37.60208293"
+        },
+        "lng": {
+            "_text": "127.04002398"
+        },
+        "useTime": {
+            "_text": "10:00~24:00"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907014700"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "성북벤처빌딩 공영주차장"
+        },
+        "statId": {
+            "_text": "ME000012"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "서울특별시 성북구 장위2동 65-154"
+        },
+        "lat": {
+            "_text": "37.60936"
+        },
+        "lng": {
+            "_text": "127.053263"
+        },
+        "useTime": {},
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "3"
+        },
+        "statUpdDt": {
+            "_text": "20200907183544"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "롯데마트 삼양점"
+        },
+        "statId": {
+            "_text": "ME000013"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "서울특별시 강북구 삼양로 247삼양시장, 지상주차장 3층 324구역"
+        },
+        "lat": {
+            "_text": "37.625405"
+        },
+        "lng": {
+            "_text": "127.017897"
+        },
+        "useTime": {
+            "_text": "10:00~24:00"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907022054"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "빅마켓 도봉점"
+        },
+        "statId": {
+            "_text": "ME000014"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "서울특별시 도봉구 마들로 645, 지상주차장 4층 406구역"
+        },
+        "lat": {
+            "_text": "37.667567"
+        },
+        "lng": {
+            "_text": "127.045490"
+        },
+        "useTime": {
+            "_text": "10:00~22:00"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907140321"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "이마트 은평점"
+        },
+        "statId": {
+            "_text": "ME000016"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "서울특별시 은평구 은평로 111, 지하주차장 4층 A구역"
+        },
+        "lat": {
+            "_text": "37.60047527"
+        },
+        "lng": {
+            "_text": "126.92047408"
+        },
+        "useTime": {
+            "_text": "10:00~24:00"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907114907"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "구파발역 환승주차장"
+        },
+        "statId": {
+            "_text": "ME000017"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "서울특별시 은평구 진관동 66-30, 지하주차장 1층 20구역"
+        },
+        "lat": {
+            "_text": "37.638403"
+        },
+        "lng": {
+            "_text": "126.919044"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907095218"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "홈플러스 월드컵점"
+        },
+        "statId": {
+            "_text": "ME000018"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "서울특별시 마포구 월드컵로 240, 지상주차장 1층"
+        },
+        "lat": {
+            "_text": "37.566685"
+        },
+        "lng": {
+            "_text": "126.898753"
+        },
+        "useTime": {
+            "_text": "08:00~24:00"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200709213542"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "시설관리공단 마포유수지주차장"
+        },
+        "statId": {
+            "_text": "ME000019"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "서울특별시 마포구 마포대로1길 19, 지상주차장"
+        },
+        "lat": {
+            "_text": "37.539442"
+        },
+        "lng": {
+            "_text": "126.943054"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907031655"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "노을공원"
+        },
+        "statId": {
+            "_text": "ME000020"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "서울특별시 마포구 상암동 482-116, 주차장 입구 정면"
+        },
+        "lat": {
+            "_text": "37.569588"
+        },
+        "lng": {
+            "_text": "126.879244"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907170818"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "홈플러스 목동점"
+        },
+        "statId": {
+            "_text": "ME000021"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "서울특별시 양천구 목동서로 170, 지상주차장 2층 01구역"
+        },
+        "lat": {
+            "_text": "37.52992611"
+        },
+        "lng": {
+            "_text": "126.87364033"
+        },
+        "useTime": {
+            "_text": "10:00~24:00"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907155834"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "해맞이공영주차장"
+        },
+        "statId": {
+            "_text": "ME000022"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "서울특별시 양천구 지양로 47"
+        },
+        "lat": {
+            "_text": "37.520062"
+        },
+        "lng": {
+            "_text": "126.834854"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907181256"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "홈플러스 가양점"
+        },
+        "statId": {
+            "_text": "ME000023"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "서울특별시 강서구 양천로 431, 지하주차장 1층"
+        },
+        "lat": {
+            "_text": "37.56401856"
+        },
+        "lng": {
+            "_text": "126.85059572"
+        },
+        "useTime": {
+            "_text": "10:00~24:00"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907185008"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "롯데마트 김포공항점"
+        },
+        "statId": {
+            "_text": "ME000024"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "서울특별시 강서구 하늘길 77, 지하주차장 1층 A-18구역"
+        },
+        "lat": {
+            "_text": "37.563453"
+        },
+        "lng": {
+            "_text": "126.803539"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907175322"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "메이필드호텔"
+        },
+        "statId": {
+            "_text": "ME000025"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "서울특별시 강서구 방화대로 94, 호텔 정면 주차장"
+        },
+        "lat": {
+            "_text": "37.546851"
+        },
+        "lng": {
+            "_text": "126.818613"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907140334"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "롯데마트 구로점"
+        },
+        "statId": {
+            "_text": "ME000026"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "서울특별시 구로구 경인로 482, 지상주차장 5층"
+        },
+        "lat": {
+            "_text": "37.49797486"
+        },
+        "lng": {
+            "_text": "126.87234534"
+        },
+        "useTime": {
+            "_text": "10:00~24:00"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200128123907"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "천왕역 환승주차장"
+        },
+        "statId": {
+            "_text": "ME000027"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "서울특별시 구로구 오류동 174-10, 천왕역 환승주차장 1층"
+        },
+        "lat": {
+            "_text": "37.487234"
+        },
+        "lng": {
+            "_text": "126.839153"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200904203748"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "구로리공원 앞(공중전화부스)"
+        },
+        "statId": {
+            "_text": "ME000028"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "서울특별시 구로구 구로동 136-14"
+        },
+        "lat": {
+            "_text": "37.4912466"
+        },
+        "lng": {
+            "_text": "126.8919514"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907162809"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "홈플러스 시흥점"
+        },
+        "statId": {
+            "_text": "ME000029"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "서울특별시 금천구 시흥대로 201, 지상주차장 4층 28구역"
+        },
+        "lat": {
+            "_text": "37.45222814"
+        },
+        "lng": {
+            "_text": "126.90093936"
+        },
+        "useTime": {
+            "_text": "10:00~24:00"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "5"
+        },
+        "statUpdDt": {
+            "_text": "20190429152954"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "독산1동 공영주차장"
+        },
+        "statId": {
+            "_text": "ME000030"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "서울특별시 금천구 범안로12가길 65, 독산1동 공영주차장 옥상"
+        },
+        "lat": {
+            "_text": "37.464893"
+        },
+        "lng": {
+            "_text": "126.894790"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200904141028"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "제일모직아울렛 건너편(공중전화부스)"
+        },
+        "statId": {
+            "_text": "ME000031"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "서울특별시 금천구 가산동 239-27"
+        },
+        "lat": {
+            "_text": "37.4744454"
+        },
+        "lng": {
+            "_text": "126.8867302"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "3"
+        },
+        "statUpdDt": {
+            "_text": "20200907184801"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "영등포구 대신시장(공중전화부스)"
+        },
+        "statId": {
+            "_text": "ME000032"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "서울특별시 영등포구 신길1동 116-15"
+        },
+        "lat": {
+            "_text": "37.5108"
+        },
+        "lng": {
+            "_text": "126.9171"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907182722"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "현대차 남부서비스센터"
+        },
+        "statId": {
+            "_text": "ME000034"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "서울특별시 동작구 노량진로 53, 현대자동차 남부서비스센터 본관 후문 주차장"
+        },
+        "lat": {
+            "_text": "37.514185"
+        },
+        "lng": {
+            "_text": "126.931894"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907005000"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "동작주차공원 공영주차장"
+        },
+        "statId": {
+            "_text": "ME000035"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "서울특별시 동작구 현충로 213, 출입구 왼쪽"
+        },
+        "lat": {
+            "_text": "37.503803"
+        },
+        "lng": {
+            "_text": "126.976775"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907182308"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "조원동 제1공영주차장"
+        },
+        "statId": {
+            "_text": "ME000036"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "서울특별시 관악구 신림동 571-6"
+        },
+        "lat": {
+            "_text": "37.481069"
+        },
+        "lng": {
+            "_text": "126.905703"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907174459"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "사당역 공영주차장"
+        },
+        "statId": {
+            "_text": "ME000037"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "서울특별시 서초구 과천대로 950-18, 지상주차장 북주차장(우측)"
+        },
+        "lat": {
+            "_text": "37.475256"
+        },
+        "lng": {
+            "_text": "126.982638"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907155731"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "이마트 양재점"
+        },
+        "statId": {
+            "_text": "ME000038"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "서울특별시 서초구 매헌로 16, 지하주차장 2층 Z구역"
+        },
+        "lat": {
+            "_text": "37.463293"
+        },
+        "lng": {
+            "_text": "127.036812"
+        },
+        "useTime": {
+            "_text": "09:00~24:00"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907164905"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "수서역 공영주차장"
+        },
+        "statId": {
+            "_text": "ME000039"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "서울특별시 강남구 수서동 735, 지상주차장 북주차장(우측)"
+        },
+        "lat": {
+            "_text": "37.487569"
+        },
+        "lng": {
+            "_text": "127.101016"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907014509"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "학여울역 공영주차장"
+        },
+        "statId": {
+            "_text": "ME000040"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "서울특별시 강남구 남부순환로 3104, 지하주차장 3층 M418구역"
+        },
+        "lat": {
+            "_text": "37.496722"
+        },
+        "lng": {
+            "_text": "127.070444"
+        },
+        "useTime": {
+            "_text": "05:00~익일01:00"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907132813"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "개포동공원 공영주차장"
+        },
+        "statId": {
+            "_text": "ME000042"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "서울특별시 강남구 개포로 509, 지하주차장 1층 8구역"
+        },
+        "lat": {
+            "_text": "37.489757"
+        },
+        "lng": {
+            "_text": "127.068269"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907184820"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "탄천제2호 공영주차장"
+        },
+        "statId": {
+            "_text": "ME000043"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "서울특별시 강남구 일원동 4-49, 주차장 입구 오른쪽"
+        },
+        "lat": {
+            "_text": "37.493865"
+        },
+        "lng": {
+            "_text": "127.087230"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907181032"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "롯데마트 잠실점"
+        },
+        "statId": {
+            "_text": "ME000044"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "서울특별시 송파구 올림픽로 240, 지하주차장 1층 M148구역"
+        },
+        "lat": {
+            "_text": "37.511818"
+        },
+        "lng": {
+            "_text": "127.096321"
+        },
+        "useTime": {
+            "_text": "10:00~24:00"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "5"
+        },
+        "statUpdDt": {
+            "_text": "20200907152821"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "이마트 명일점"
+        },
+        "statId": {
+            "_text": "ME000045"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "서울특별시 강동구 고덕로 276, 지하주차장 1층 E구역"
+        },
+        "lat": {
+            "_text": "37.554606"
+        },
+        "lng": {
+            "_text": "127.155966"
+        },
+        "useTime": {
+            "_text": "10:00~24:00"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "3"
+        },
+        "statUpdDt": {
+            "_text": "20200907184404"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "홈플러스 영도점"
+        },
+        "statId": {
+            "_text": "ME000046"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "01"
+        },
+        "addr": {
+            "_text": "부산광역시 영도구 대교로14번길 57, 지상주차장 3층 410구역"
+        },
+        "lat": {
+            "_text": "35.095906"
+        },
+        "lng": {
+            "_text": "129.044240"
+        },
+        "useTime": {
+            "_text": "09:00~24:00"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907014551"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "온천장역 공영주차장"
+        },
+        "statId": {
+            "_text": "ME000047"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "부산광역시 금정구   오시게로 20, 주차장 출구 오른쪽"
+        },
+        "lat": {
+            "_text": "35.219290"
+        },
+        "lng": {
+            "_text": "129.086050"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907151352"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "이마트 문현점"
+        },
+        "statId": {
+            "_text": "ME000048"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "부산광역시 남구 전포대로91번길 47, 지상주차장 4층 A구역"
+        },
+        "lat": {
+            "_text": "35.144356"
+        },
+        "lng": {
+            "_text": "129.064256"
+        },
+        "useTime": {
+            "_text": "10:00~24:00"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907115640"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "하단역 공영주차장"
+        },
+        "statId": {
+            "_text": "ME000051"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "부산광역시 사하구 하신중앙로 313, 주차장 출구 오른쪽"
+        },
+        "lat": {
+            "_text": "35.106166"
+        },
+        "lng": {
+            "_text": "128.965760"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200906004602"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "이마트 금정점"
+        },
+        "statId": {
+            "_text": "ME000052"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "01"
+        },
+        "addr": {
+            "_text": "부산광역시 금정구 중앙대로1841번길 24, 지상주차장 3층 73구역"
+        },
+        "lat": {
+            "_text": "35.24975906"
+        },
+        "lng": {
+            "_text": "129.0901501"
+        },
+        "useTime": {
+            "_text": "10:00~24:00"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20180810114510"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "남산역 공영주차장"
+        },
+        "statId": {
+            "_text": "ME000053"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "부산광역시 금정구 중앙대로 2030, 주차장 입구 정면"
+        },
+        "lat": {
+            "_text": "35.265513"
+        },
+        "lng": {
+            "_text": "129.092746"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907004655"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "부산환경공단 명지사업소"
+        },
+        "statId": {
+            "_text": "ME000054"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "부산광역시 강서구 명지오션시티13로 12-11, 주차장 입구 왼쪽"
+        },
+        "lat": {
+            "_text": "35.090537"
+        },
+        "lng": {
+            "_text": "128.898577"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907181427"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "홈플러스 아시아드점"
+        },
+        "statId": {
+            "_text": "ME000055"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "부산광역시 연제구 종합운동장로 7, 지하주차장 1층 35구역"
+        },
+        "lat": {
+            "_text": "35.19104755"
+        },
+        "lng": {
+            "_text": "129.06250571"
+        },
+        "useTime": {
+            "_text": "09:00~24:00"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "5"
+        },
+        "statUpdDt": {
+            "_text": "20200904161757"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "이마트 연제점"
+        },
+        "statId": {
+            "_text": "ME000056"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "부산광역시 연제구 연수로 89, 지하주차장 1층 E구역"
+        },
+        "lat": {
+            "_text": "35.176147"
+        },
+        "lng": {
+            "_text": "129.081345"
+        },
+        "useTime": {
+            "_text": "10:00~24:00"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "3"
+        },
+        "statUpdDt": {
+            "_text": "20200907183611"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "학장천 공영주차장"
+        },
+        "statId": {
+            "_text": "ME000058"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "부산광역시 사상구 가야대로 309, 주차장 입구 정면"
+        },
+        "lat": {
+            "_text": "35.148500"
+        },
+        "lng": {
+            "_text": "129.000724"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "3"
+        },
+        "statUpdDt": {
+            "_text": "20200907183801"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "장안휴게소(울산방향)"
+        },
+        "statId": {
+            "_text": "ME000059"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "부산광역시 기장군  장안읍  동해고속도로 26, 휴게소와 LPG충전소 사이"
+        },
+        "lat": {
+            "_text": "35.3820817"
+        },
+        "lng": {
+            "_text": "129.248685"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907160630"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "장안휴게소(부산방향)"
+        },
+        "statId": {
+            "_text": "ME000060"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "부산광역시 기장군 장안읍 명례리 835, 휴게소와 LPG충전소 사이"
+        },
+        "lat": {
+            "_text": "35.3783548"
+        },
+        "lng": {
+            "_text": "129.2461223"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907164755"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "기장군청"
+        },
+        "statId": {
+            "_text": "ME000061"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "부산광역시 기장군 기장읍 기장대로 560"
+        },
+        "lat": {
+            "_text": "35.2438178"
+        },
+        "lng": {
+            "_text": "129.222363"
+        },
+        "useTime": {},
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907174755"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "성명맨션 앞(공중전화부스)"
+        },
+        "statId": {
+            "_text": "ME000063"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "대구광역시 동구 신천3동 146-15"
+        },
+        "lat": {
+            "_text": "35.8683691"
+        },
+        "lng": {
+            "_text": "128.6232879"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907180333"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "망우당공원 택시쉼터"
+        },
+        "statId": {
+            "_text": "ME000064"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "대구광역시 동구 효동로2길 93 "
+        },
+        "lat": {
+            "_text": "35.8764164"
+        },
+        "lng": {
+            "_text": "128.6564477"
+        },
+        "useTime": {},
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907182803"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "원평치안센터(공중전화부스)"
+        },
+        "statId": {
+            "_text": "ME000065"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "대구광역시 서구 평리3동 729-2"
+        },
+        "lat": {
+            "_text": "35.8793788"
+        },
+        "lng": {
+            "_text": "128.561858"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907002534"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "만평네거리 북편 공영주차장"
+        },
+        "statId": {
+            "_text": "ME000067"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "대구광역시 북구 팔달로 105 "
+        },
+        "lat": {
+            "_text": "35.8900805"
+        },
+        "lng": {
+            "_text": "128.562145"
+        },
+        "useTime": {},
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907183214"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "대구교통연수원"
+        },
+        "statId": {
+            "_text": "ME000069"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "대구광역시 수성구 무학로 203 "
+        },
+        "lat": {
+            "_text": "35.8302242"
+        },
+        "lng": {
+            "_text": "128.6304832"
+        },
+        "useTime": {},
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907185257"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "성서국민체육센터"
+        },
+        "statId": {
+            "_text": "ME000071"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "대구광역시 달서구 선원로 133 "
+        },
+        "lat": {
+            "_text": "35.8598646"
+        },
+        "lng": {
+            "_text": "128.5068616"
+        },
+        "useTime": {},
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907182204"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "홀마트 앞 (공중전화부스) "
+        },
+        "statId": {
+            "_text": "ME000072"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "대구광역시 달성군 논공읍 논공로 749"
+        },
+        "lat": {
+            "_text": "35.7290522"
+        },
+        "lng": {
+            "_text": "128.445777"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200905132554"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "인천공항 정부합동청사"
+        },
+        "statId": {
+            "_text": "ME000073"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "인천광역시 중구 공항로424번길 47, 정문 주차장"
+        },
+        "lat": {
+            "_text": "37.440993"
+        },
+        "lng": {
+            "_text": "126.461521"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200720115832"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "롯데마트 영종도점"
+        },
+        "statId": {
+            "_text": "ME000074"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "인천광역시 중구 흰바위로 51, 지상주차장 4층 455구역"
+        },
+        "lat": {
+            "_text": "37.492675"
+        },
+        "lng": {
+            "_text": "126.491194"
+        },
+        "useTime": {
+            "_text": "10:00~22:00"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200906203119"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "차이나타운 주차장"
+        },
+        "statId": {
+            "_text": "ME000075"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "인천광역시 중구 신포로27번길 80"
+        },
+        "lat": {
+            "_text": "37.4737140"
+        },
+        "lng": {
+            "_text": "126.6216820"
+        },
+        "useTime": {},
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907170852"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "송림체육관"
+        },
+        "statId": {
+            "_text": "ME000076"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "인천광역시 동구 염전로 30"
+        },
+        "lat": {
+            "_text": "37.485283"
+        },
+        "lng": {
+            "_text": "126.646906"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907183758"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "홈플러스 인하점"
+        },
+        "statId": {
+            "_text": "ME000077"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "인천광역시 남구 소성로 6, 주차장 옥상"
+        },
+        "lat": {
+            "_text": "37.44396711"
+        },
+        "lng": {
+            "_text": "127.14108755"
+        },
+        "useTime": {
+            "_text": "09:00~24:00"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200906170925"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "이마트 연수점"
+        },
+        "statId": {
+            "_text": "ME000079"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "인천광역시 연수구 경원대로 184, 주차장 옥상"
+        },
+        "lat": {
+            "_text": "37.44690295"
+        },
+        "lng": {
+            "_text": "126.65056482"
+        },
+        "useTime": {
+            "_text": "10:00~24:00"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200906121150"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "홈플러스 구월점"
+        },
+        "statId": {
+            "_text": "ME000081"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "인천광역시 남동구 예술로 198, 지하주차장 4층 I4구역"
+        },
+        "lat": {
+            "_text": "37.4047181"
+        },
+        "lng": {
+            "_text": "126.68192511"
+        },
+        "useTime": {
+            "_text": "09:00~24:00"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907020539"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "계양구 공영주차장"
+        },
+        "statId": {
+            "_text": "ME000082"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "인천광역시 계양구 봉오대로 679-1, 작전역 2번 출구 100m 앞 "
+        },
+        "lat": {
+            "_text": "37.530611"
+        },
+        "lng": {
+            "_text": "126.724568"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907180939"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "인천서구청 제1주차장"
+        },
+        "statId": {
+            "_text": "ME000084"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "인천광역시 서구 탁옥로51번길 26, 서구청후문 주차타워 지상 1층"
+        },
+        "lat": {
+            "_text": "37.546063"
+        },
+        "lng": {
+            "_text": "126.675578"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200718183656"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "홈플러스 가좌점"
+        },
+        "statId": {
+            "_text": "ME000085"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "인천광역시 서구 가정로151번길 11, 지하주차장 1층 M0구역"
+        },
+        "lat": {
+            "_text": "37.497573"
+        },
+        "lng": {
+            "_text": "126.670692"
+        },
+        "useTime": {
+            "_text": "10:00~24:00"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907161441"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "소태역 환승주차장"
+        },
+        "statId": {
+            "_text": "ME000086"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "광주광역시 동구 남문로 575, 환승주차장 1층"
+        },
+        "lat": {
+            "_text": "35.122112"
+        },
+        "lng": {
+            "_text": "126.932263"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200821172455"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "광주시청"
+        },
+        "statId": {
+            "_text": "ME000088"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "광주광역시 서구 내방로 111, 광주광역시청  "
+        },
+        "lat": {
+            "_text": "35.160317"
+        },
+        "lng": {
+            "_text": "126.849815"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907182707"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "광주시청"
+        },
+        "statId": {
+            "_text": "ME000088"
+        },
+        "chgerId": {
+            "_text": "02"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "광주광역시 서구 내방로 111, 광주광역시청  "
+        },
+        "lat": {
+            "_text": "35.160317"
+        },
+        "lng": {
+            "_text": "126.849815"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907004831"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "송암동주민센터"
+        },
+        "statId": {
+            "_text": "ME000089"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "광주광역시 남구 송암로 66, 도로쪽 주차장"
+        },
+        "lat": {
+            "_text": "35.111648"
+        },
+        "lng": {
+            "_text": "126.877215"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907174219"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "광주문화예술회관"
+        },
+        "statId": {
+            "_text": "ME000090"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "광주광역시 북구 북문대로 60, 광주문화예술회관 지상주차장"
+        },
+        "lat": {
+            "_text": "35.177718"
+        },
+        "lng": {
+            "_text": "126.881703"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907134939"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "중소기업진흥공단 호남연수원"
+        },
+        "statId": {
+            "_text": "ME000091"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "광주광역시 북구 동문대로456번길 40, 주차장 1층"
+        },
+        "lat": {
+            "_text": "35.203949"
+        },
+        "lng": {
+            "_text": "126.937339"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907004805"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "홈플러스 동대전점"
+        },
+        "statId": {
+            "_text": "ME000094"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "대전광역시 동구 한밭대로 1282, 지상주차장 5층"
+        },
+        "lat": {
+            "_text": "36.353803"
+        },
+        "lng": {
+            "_text": "127.437375"
+        },
+        "useTime": {
+            "_text": "10:00~24:00"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907104739"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "대전월드컵경기장"
+        },
+        "statId": {
+            "_text": "ME000096"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "대전광역시 유성구 월드컵대로 32"
+        },
+        "lat": {
+            "_text": "36.363604"
+        },
+        "lng": {
+            "_text": "127.32591"
+        },
+        "useTime": {},
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907174840"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "울산 중구 동천체육관"
+        },
+        "statId": {
+            "_text": "ME000098"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "울산광역시 중구 염포로 85동천 체육관 동편 주차장"
+        },
+        "lat": {
+            "_text": "35.561792"
+        },
+        "lng": {
+            "_text": "129.352073"
+        },
+        "useTime": {},
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907183451"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "울산 동구 전하체육센터"
+        },
+        "statId": {
+            "_text": "ME000100"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "울산광역시 동구 봉수로 285전하체육센터 주차장 입구옆"
+        },
+        "lat": {
+            "_text": "35.512571"
+        },
+        "lng": {
+            "_text": "129.422104"
+        },
+        "useTime": {},
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907090439"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "울산시 북구청"
+        },
+        "statId": {
+            "_text": "ME000101"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "울산광역시 북구 연암동 산업로 1010 북구청"
+        },
+        "lat": {
+            "_text": "35.582734"
+        },
+        "lng": {
+            "_text": "129.360909"
+        },
+        "useTime": {},
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907010437"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "농소2동 주민센터"
+        },
+        "statId": {
+            "_text": "ME000102"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "울산광역시 북구 찬샘1길 24"
+        },
+        "lat": {
+            "_text": "35.638203"
+        },
+        "lng": {
+            "_text": "129.3480953"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907155406"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "울산 울주군 서생면사무소"
+        },
+        "statId": {
+            "_text": "ME000105"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "울산광역시 울주군 서생면 해맞이로 894서생면사무소 청사 건물 출입구 우측 주차장"
+        },
+        "lat": {
+            "_text": "35.349902"
+        },
+        "lng": {
+            "_text": "129.326040"
+        },
+        "useTime": {},
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907104807"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "홈플러스 동수원점"
+        },
+        "statId": {
+            "_text": "ME000106"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "경기도 수원시 팔달구 효원로 257, 지하주차장 1층  A01구역"
+        },
+        "lat": {
+            "_text": "37.45195982"
+        },
+        "lng": {
+            "_text": "126.70177106"
+        },
+        "useTime": {
+            "_text": "10:00~24:00"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907170942"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "이마트 서수원점"
+        },
+        "statId": {
+            "_text": "ME000107"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "경기도 수원시 권선구 수인로 291, 지하주차장 1층 C12구역"
+        },
+        "lat": {
+            "_text": "37.282506"
+        },
+        "lng": {
+            "_text": "126.970137"
+        },
+        "useTime": {
+            "_text": "10:00~24:00"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200906105244"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "장안구청"
+        },
+        "statId": {
+            "_text": "ME000108"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "경기도 수원시 장안구 송원로 101"
+        },
+        "lat": {
+            "_text": "37.304438"
+        },
+        "lng": {
+            "_text": "127.010121"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907121439"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "수원화성박물관"
+        },
+        "statId": {
+            "_text": "ME000109"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "경기도 수원시 팔달구 창룡대로 21"
+        },
+        "lat": {
+            "_text": "37.2823374"
+        },
+        "lng": {
+            "_text": "127.0197230"
+        },
+        "useTime": {},
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907182456"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "롯데마트 영통점"
+        },
+        "statId": {
+            "_text": "ME000110"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "경기도 수원시 영통구 봉영로 1579, 지하주차장 5층 503구역"
+        },
+        "lat": {
+            "_text": "37.252726"
+        },
+        "lng": {
+            "_text": "127.071649"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907024105"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "이마트 성남점"
+        },
+        "statId": {
+            "_text": "ME000111"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "경기도 성남시 수정구 수정로 201, 지하주차장 2층 C3구역"
+        },
+        "lat": {
+            "_text": "37.26286532"
+        },
+        "lng": {
+            "_text": "127.02963007"
+        },
+        "useTime": {
+            "_text": "10:00~22:00"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907155048"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "성남시청"
+        },
+        "statId": {
+            "_text": "ME000112"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "경기도 성남시 중원구 성남대로 997, 성남시청 제1주차장"
+        },
+        "lat": {
+            "_text": "37.420017"
+        },
+        "lng": {
+            "_text": "127.126649"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907163329"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "동양컴퓨터학원 앞(공중전화부스)"
+        },
+        "statId": {
+            "_text": "ME000113"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "경기도 성남시 중원구 중앙동 1175"
+        },
+        "lat": {
+            "_text": "37.4398788"
+        },
+        "lng": {
+            "_text": "127.1455762"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907155712"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "율동자연공원 B주차장"
+        },
+        "statId": {
+            "_text": "ME000114"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "경기도 성남시 분당구 서현로 459, 율동자연공원 B주차장(서현로방면) 출입구 왼쪽"
+        },
+        "lat": {
+            "_text": "37.372759"
+        },
+        "lng": {
+            "_text": "127.147019"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907144825"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "성남 맛고을 주차장"
+        },
+        "statId": {
+            "_text": "ME000115"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "경기도 성남시 분당구 야탑로 111번길 12-14"
+        },
+        "lat": {
+            "_text": "37.4116220"
+        },
+        "lng": {
+            "_text": "127.1317720"
+        },
+        "useTime": {},
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907164636"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "하나로마트 구미점"
+        },
+        "statId": {
+            "_text": "ME000116"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "경기도 성남시 분당구 성남대로 43번길 11 "
+        },
+        "lat": {
+            "_text": "37.3378677"
+        },
+        "lng": {
+            "_text": "127.1086182"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907174130"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "홈플러스 의정부점"
+        },
+        "statId": {
+            "_text": "ME000117"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "경기도 의정부시 청사로 38, 지상주차장 5층"
+        },
+        "lat": {
+            "_text": "37.75264066"
+        },
+        "lng": {
+            "_text": "127.07132022"
+        },
+        "useTime": {
+            "_text": "10:00~23:40"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907070147"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "홈플러스 안양점"
+        },
+        "statId": {
+            "_text": "ME000118"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "경기도 안양시 동안구 엘에스로 92, 지하주차장 2층 D1 구역"
+        },
+        "lat": {
+            "_text": "37.370042"
+        },
+        "lng": {
+            "_text": "126.953179"
+        },
+        "useTime": {
+            "_text": "09:00~24:00"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907162211"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "안양시청"
+        },
+        "statId": {
+            "_text": "ME000119"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "경기도 안양시 동안구 관앙동 1590"
+        },
+        "lat": {
+            "_text": "37.394966"
+        },
+        "lng": {
+            "_text": "126.957851"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907144356"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "이마트 중동점"
+        },
+        "statId": {
+            "_text": "ME000120"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "경기도 부천시 원미구 석천로 188, 지상주차장 2층 D구역 창고 오른쪽"
+        },
+        "lat": {
+            "_text": "37.50395069"
+        },
+        "lng": {
+            "_text": "126.76409287"
+        },
+        "useTime": {
+            "_text": "10:00~24:00"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907173814"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "비전 공영주차장"
+        },
+        "statId": {
+            "_text": "ME000121"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "06"
+        },
+        "addr": {
+            "_text": "경기도 평택시 비전동 629-1,주차장 안쪽 끝"
+        },
+        "lat": {
+            "_text": "36.997061"
+        },
+        "lng": {
+            "_text": "127.088369"
+        },
+        "useTime": {
+            "_text": "24시간 이용가능"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907164041"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    },
+    {
+        "statNm": {
+            "_text": "홈플러스 안산점"
+        },
+        "statId": {
+            "_text": "ME000124"
+        },
+        "chgerId": {
+            "_text": "01"
+        },
+        "chgerType": {
+            "_text": "03"
+        },
+        "addr": {
+            "_text": "경기도 안산시 상록구 충장로 432, 지상주차장 1층 35구역"
+        },
+        "lat": {
+            "_text": "37.317494"
+        },
+        "lng": {
+            "_text": "126.850333"
+        },
+        "useTime": {
+            "_text": "10:00~24:00"
+        },
+        "busiId": {
+            "_text": "ME"
+        },
+        "busiNm": {
+            "_text": "환경부"
+        },
+        "busiCall": {
+            "_text": "1661-9408"
+        },
+        "stat": {
+            "_text": "2"
+        },
+        "statUpdDt": {
+            "_text": "20200907164218"
+        },
+        "powerType": {
+            "_text": "급속(50kW)"
+        }
+    }
+]

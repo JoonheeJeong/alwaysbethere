@@ -51,6 +51,10 @@
 		50218F4A24D9266E0043CF9F /* KakaoMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50218F4924D9266E0043CF9F /* KakaoMapView.swift */; };
 		50218FA524D92DCE0043CF9F /* AlwaysBeThere-Bridging-Header.m in Sources */ = {isa = PBXBuildFile; fileRef = 50218FA424D92DCE0043CF9F /* AlwaysBeThere-Bridging-Header.m */; };
 		50218FA824DBC1ED0043CF9F /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50218FA724DBC1ED0043CF9F /* UserData.swift */; };
+		50ADDD1E2506250C00F3A856 /* SearchChargingStation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50ADDD1D2506250C00F3A856 /* SearchChargingStation.swift */; };
+		50ADDD2625075D5300F3A856 /* ChargingStationRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50ADDD2525075D5300F3A856 /* ChargingStationRow.swift */; };
+		50ADDD2825075F6000F3A856 /* ChargerData.json in Resources */ = {isa = PBXBuildFile; fileRef = 50ADDD2725075F6000F3A856 /* ChargerData.json */; };
+		50ADDD2A2507604700F3A856 /* Charger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50ADDD292507604700F3A856 /* Charger.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -108,6 +112,10 @@
 		50218F4924D9266E0043CF9F /* KakaoMapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KakaoMapView.swift; sourceTree = "<group>"; };
 		50218FA424D92DCE0043CF9F /* AlwaysBeThere-Bridging-Header.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "AlwaysBeThere-Bridging-Header.m"; sourceTree = "<group>"; };
 		50218FA724DBC1ED0043CF9F /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
+		50ADDD1D2506250C00F3A856 /* SearchChargingStation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchChargingStation.swift; sourceTree = "<group>"; };
+		50ADDD2525075D5300F3A856 /* ChargingStationRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChargingStationRow.swift; sourceTree = "<group>"; };
+		50ADDD2725075F6000F3A856 /* ChargerData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ChargerData.json; sourceTree = "<group>"; };
+		50ADDD292507604700F3A856 /* Charger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Charger.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,11 +158,15 @@
 		50218DD224D7F3880043CF9F /* AlwaysBeThere */ = {
 			isa = PBXGroup;
 			children = (
+				50ADDD222507581000F3A856 /* Models */,
+				50ADDD2725075F6000F3A856 /* ChargerData.json */,
+				50ADDD2525075D5300F3A856 /* ChargingStationRow.swift */,
 				50218DD324D7F3880043CF9F /* AppDelegate.swift */,
 				50218DD524D7F3880043CF9F /* SceneDelegate.swift */,
 				50218F4924D9266E0043CF9F /* KakaoMapView.swift */,
 				50218FA724DBC1ED0043CF9F /* UserData.swift */,
 				50218DD724D7F3880043CF9F /* ContentView.swift */,
+				50ADDD1D2506250C00F3A856 /* SearchChargingStation.swift */,
 				50218DD924D7F38A0043CF9F /* Assets.xcassets */,
 				50218DDE24D7F38A0043CF9F /* LaunchScreen.storyboard */,
 				50218DE124D7F38A0043CF9F /* Info.plist */,
@@ -245,6 +257,14 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		50ADDD222507581000F3A856 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				50ADDD292507604700F3A856 /* Charger.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -320,6 +340,7 @@
 				50218F2724D91F920043CF9F /* map_present_tracking.png in Resources */,
 				50218F1E24D91F920043CF9F /* detail_button.png in Resources */,
 				50218F3124D91F920043CF9F /* noimage.png in Resources */,
+				50ADDD2825075F6000F3A856 /* ChargerData.json in Resources */,
 				50218F2324D91F920043CF9F /* th_line.png in Resources */,
 				50218F2C24D91F920043CF9F /* info_box_tail.png in Resources */,
 				50218F1B24D91F920043CF9F /* map_pin_custom.png in Resources */,
@@ -344,6 +365,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				50ADDD2625075D5300F3A856 /* ChargingStationRow.swift in Sources */,
+				50ADDD1E2506250C00F3A856 /* SearchChargingStation.swift in Sources */,
+				50ADDD2A2507604700F3A856 /* Charger.swift in Sources */,
 				50218FA824DBC1ED0043CF9F /* UserData.swift in Sources */,
 				50218DD424D7F3880043CF9F /* AppDelegate.swift in Sources */,
 				50218F4A24D9266E0043CF9F /* KakaoMapView.swift in Sources */,
